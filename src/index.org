@@ -4,13 +4,14 @@
   page applications.
 ** Documentation
 *** Installation
-    Unico release includes 3 files:
+    Download Unico from the release page on github: https://github.com/harlock/unicojs/releases
+    You can choose one of these versions:
     * unico.core.js: Just the framework. You must download and require dependencies.
     * unico.js: Bundle with unico and its dependencies. Development version.
     * unico.min.js: Production ready build.
 *** Controllers
 #+begin_html
-<iframe width="100%" height="300" src="http://jsfiddle.net/txotin/0L7fsmfe/9/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="http://jsfiddle.net/txotin/czbjsvr2/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 #+end_html
 
     In order to use Unico as an standalone framework in your
