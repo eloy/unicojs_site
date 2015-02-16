@@ -51,10 +51,15 @@
     This directive provide 2 way data binding.
 
     #+begin_html
-    <iframe width="100%" height="300" src="http://jsfiddle.net/txotin/z9w9ms5t/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+    <iframe width="100%" height="500" src="http://jsfiddle.net/txotin/z9w9ms5t/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
     #+end_html
 
-*** TODO submit
+*** submit
+    This directive let you interact with forms
+
+    #+begin_html
+    <iframe width="100%" height="300" src="http://jsfiddle.net/txotin/nwto8xL8/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+    #+end_html
 
 ** TODO Create custom directives
 * TODO Components
