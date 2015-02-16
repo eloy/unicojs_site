@@ -12,7 +12,6 @@
 #+HTML_HEAD:   window.scrollTo(0, 1);
 #+HTML_HEAD: </script>
 #+HTML_HEAD: <!--<![endif]-->
-#+HTML_HEAD: <script type="text/javascript" src="js/org-info.js"></script>
 #+HTML_HEAD: <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
 #+DRAWERS: INFO
 #+STARTUP: overview indent
