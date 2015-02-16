@@ -1,0 +1,18 @@
+#+AUTHOR:    Eloy Gomez
+#+EMAIL:     eloy@indeos.es
+#+LANGUAGE:  en
+#+OPTIONS:   H:5 num:t toc:3 \n:nil @:t ::t |:t ^:nil -:t f:t *:t TeX:t LaTeX:nil skip:nil d:t tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:ht ftoc:t ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+LINK_UP:
+#+LINK_HOME:
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+#+HTML_HEAD: <!--[if !IE]>-->
+#+HTML_HEAD: <meta name="viewport" content="width=device-width">
+#+HTML_HEAD: <script type="text/javascript">
+#+HTML_HEAD:   window.scrollTo(0, 1);
+#+HTML_HEAD: </script>
+#+HTML_HEAD: <!--<![endif]-->
+#+HTML_HEAD: <script type="text/javascript" src="js/org-info.js"></script>
+#+HTML_HEAD: <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:700' rel='stylesheet' type='text/css'>
+#+DRAWERS: INFO
+#+STARTUP: overview indent
