@@ -1,6 +1,7 @@
 #+TITLE: UnicoJS Documentation
 #+SETUPFILE: "../templates/setup.org"
 
+
 * Unico, a reactive framework
   Unico is a js framework built on top of Facebook React and inspired
   by Angular. It is suitable for small widget as well as full single
@@ -25,6 +26,7 @@
   Directives are the bridge between react elements and your
   code. Directives give you the chance to manipulate the DOM node,
   add custom listeners, or change the element behavior
+
 ** Built in directives
 *** if and unless
     These directives control the visibility of the element.
@@ -60,8 +62,16 @@
     #+begin_html
     <iframe width="100%" height="300" src="http://jsfiddle.net/txotin/nwto8xL8/embedded/html,js,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
     #+end_html
+** TODO [#C] Create custom directives
 
-** TODO Create custom directives
 * TODO Components
+Components let you build reusable web components with its own controller.
+* Using React classes as Unico components
+If you want to integrate native react classes you can define a new
+component and set the propety reactClass of meta. The framework
+will call the react class with two properties, ctx and meta.
+#+begin_html
+  <iframe width="100%" height="500" src="http://jsfiddle.net/txotin/pwcdz9h0/embedded/js,html,result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+#+end_html
 * TODO Models
 * TODO Router and Single Page Applications
